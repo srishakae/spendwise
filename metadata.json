@@ -1,0 +1,11 @@
+{
+  "name": "SpendWise",
+  "description": "AI-powered student expense tracking chatbot with natural language logging, receipt scanning, and budget analytics.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
